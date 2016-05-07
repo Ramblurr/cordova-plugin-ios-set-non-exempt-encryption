@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-ios-no-export-compliance" version="0.0.1">
-    <name>iOS No Export Compliance</name>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-ios-set-non-exempt-encryption" version="0.0.1">
+    <name>Non exempt encryption</name>
     <description>This plugin sets ITSAppUsesNonExemptEncryption value *-Info.plist file</description>
     <license>BSD-3</license>
     <engines>
